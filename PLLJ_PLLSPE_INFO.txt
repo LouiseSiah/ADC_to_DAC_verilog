@@ -1,0 +1,5 @@
+PLL_Name	Audio_Controller:Audio_Controller|Audio_Clock:Audio_Clock|altpll:altpll_component|pll
+PLLJITTER	30
+PLLSPEmax	84
+PLLSPEmin	-53
+
